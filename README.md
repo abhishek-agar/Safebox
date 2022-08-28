@@ -68,7 +68,7 @@ Below is the directory strucutre of the challenge submission folder.
 
 - _assets:_ This folder contains the image assets - both HTB assets and images for walkthrough writeup.
 - _code:_ The code folder contains the C source code, the Makefile and the executable file.
-- _safebox_: This is challenge executable file. Two other copies of this file can be also found in the **solver** and **code** folder.
+- _safebox_: This is the challenge executable file. Two other copies of this file can be also found in the **solver** and **code** folder.
 - _solver:_ This folder contains the python solver script along with the copy of the executable file.
 - _walkthrough:_ This folder contains the writeup document.
 - _README.MD:_ This is the main README for the challenge.
