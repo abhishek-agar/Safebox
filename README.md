@@ -2,7 +2,7 @@
 
 
 
-<img src="assets/images/htb.png" style="margin-left: 20px; zoom: 60%;" align=left />    	<font size="10">Safe Box</font>
+<img src="assets/images/htb.png" style="margin-left: 20px; zoom: 60%;" align=left />    	<font size="10">**[RETIRED]** Safe Box</font>
 
 ​		28<sup>th</sup> August 2022
 
@@ -15,8 +15,7 @@ Welcome to your bank. It seems like you stored something important in your safe 
 
 ### Objective
 
-The objective of this challenge is to retreive the flag by entering the correct key. The participants will have to reverse engineer the challenge file to figure out the key.        
-This challenge involves debugging and disassembling the code, bypasssing anti-debugging technique, and reading assembly to understand key decryption and validation logic.
+The objective of this challenge is to retreive the flag by entering the correct key. The participants will have to reverse engineer the challenge file to figure out the key. This challenge involves debugging and disassembling the code, bypasssing anti-debugging technique, and reading assembly to understand key decryption and validation logic.
 
 ### Difficulty:
 
@@ -33,6 +32,7 @@ The challenge file is a 64-bit ELF (linux binary) file, by the name of `safebox`
 
 A pre-built challenge file can also be found on the main folder path: [Safebox](safebox)
 
+> Note: This challenge is now **retired**.
 
 # Solver
 
